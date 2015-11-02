@@ -20,7 +20,7 @@ npm test
 
 # Authors
 
-- [Hannes Moser](mailto:hannes@impossiblearts.com)
+- [Stefanie Habersatter](mailto:habi1986@gmx.at)
 
 # License
 
