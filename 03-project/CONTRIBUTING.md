@@ -16,12 +16,12 @@ Help us keep this project open and inclusive. Please read and follow our
 
 ## <a name="issue"></a> Found an Issue?
 If you find a bug in the source code or a mistake in the documentation, you can
-help us by submitting an issue to our [GitHub Repository](https://github.com/multimediatechnology/assignment-workflows).
+help us by submitting an issue to our [GitHub Repository](https://github.com/Habi86/MMT-B2014-Web-Production-Workflows).
 Even better you can submit a Pull Request with a fix.
 
 ## <a name="feature"></a> Want a Feature?
 You can request a new feature by submitting an issue to our
-[GitHub Repository](https://github.com/multimediatechnology/assignment-workflows).
+[GitHub Repository](https://github.com/Habi86/MMT-B2014-Web-Production-Workflows).
 If you would like to implement a new feature then consider what kind of change it is:
 
 * **Major Changes** that you wish to contribute to the project should be
@@ -29,7 +29,7 @@ If you would like to implement a new feature then consider what kind of change i
   duplication of work, and help you to craft the change so that it is successfully
   accepted into the project.
 * **Small Changes** can be crafted and submitted to the
-  [GitHub Repository](https://github.com/multimediatechnology/assignment-workflows) as a Pull Request.
+  [GitHub Repository](https://github.com/Habi86/MMT-B2014-Web-Production-Workflows) as a Pull Request.
 
 ## <a name="docs"></a> Want a Doc Fix?
 If you want to help improve the docs, it's a good idea to let others know what
@@ -75,9 +75,6 @@ information will increase the chances of your issue being dealt with quickly:
 * **Related Issues** - has a similar issue been reported before?
 * **Suggest a Fix** - if you can't fix the bug yourself, perhaps you can point
   to what might be causing the problem (line of code or commit)
-
-Here is a great example of a well defined issue:
-https://github.com/multimediatechnology/workflows-assignment/issues/5069
 
 **If you get help, help others. Good karma rulez!**
 
