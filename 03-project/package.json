@@ -9,7 +9,7 @@
   "keywords": [
     "Project"
   ],
-  "author": "Hannes Moser <hannes@impossiblearts.com>",
+  "author": "Stefanie Habersatter <shabersatter.mmt-b2014@fh-salzburg.ac.at>",
   "license": "MIT",
   "devDependencies": {
     "babel": "^5.8.29",

@@ -20,4 +20,4 @@ the project may take action, removing issues, comments, and PRs or
 blocking accounts as deemed appropriate.
 
 If you are subject to or witness unacceptable behavior, or have any other
-concerns, please email us at [conduct@multimediatechnology.at](mailto:conduct@multimediatechnology.at).
+concerns, please email us at mailto:shabersatter.mmt-b2014@fh-salzburg.ac.at.
