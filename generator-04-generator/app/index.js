@@ -7,10 +7,10 @@ module.exports = generators.Base.extend({
   constructor: function() {
     generators.Base.apply(this, arguments)
   },
-  initializing() {
+  initializing(){
     // this.destinationRoot('tmp')
   },
-  prompting() {
+  prompting(){
     const done = this.async()
     this.prompt(promptConfig, function(userConfig) {
       this.userConfig = userConfig
