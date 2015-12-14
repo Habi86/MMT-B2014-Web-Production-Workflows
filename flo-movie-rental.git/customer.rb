@@ -32,7 +32,7 @@ class Customer
     result
   end
 
-  #Refactoring: extracted Method
+  #Refactoring: extracted out of statement
   def amount_for(rental)
     result = 0
     # determine amounts for each line
@@ -46,5 +46,6 @@ class Customer
         result += 1.5
         result += (rental.days_rented - 3) * 1.5 if rental.days_rented > 3
     end
+    result
   end
 end
