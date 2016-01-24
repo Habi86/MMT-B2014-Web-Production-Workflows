@@ -15,7 +15,6 @@ class Customer
     @rentals.each do |element|
       # show figures for this rental
       result += "\t" + element.movie.title + "\t" + element.charge.to_s + "\n"
-      total_amount += element.charge
     end
 
     # add footer lines
